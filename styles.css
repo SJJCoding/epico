@@ -1,0 +1,19 @@
+div {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    padding: 50px;
+    box-shadow: 10px 10px black;
+  }
+
+body {
+    padding: 50px;
+    background-image: url(https://images.customwheeloffset.com/web/628776-5-2002-325i-bmw-base-jom-coilovers-oz-racing-futura-anthracite.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
